@@ -42,3 +42,23 @@ public:
     
 };
 
+int main() {
+    int num;
+    cout << "Enter number: ";
+    cin >> num;
+
+    Solution1 sol1;
+    if (sol1.isPalindrome(num))
+        cout << num << " is a palindrome." << endl;
+    else
+        cout << num << " is not a palindrome." << endl;
+
+    Solution2 sol2;
+    int revnum = sol2.reverse(num);
+    if (revnum != 0)
+        cout << "Reversed number: " << revnum << endl;
+    else
+        cout << "Reversed number overflows 32-bit integer." << endl;
+
+    return 0;
+}
