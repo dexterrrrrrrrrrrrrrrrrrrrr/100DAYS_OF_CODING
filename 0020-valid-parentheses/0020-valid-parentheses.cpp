@@ -6,7 +6,7 @@ public:
 
         for(char ch : s) {
 
-            if(ch == '(' || ch == '[' || ch == '{') {
+            if(ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
             }
             else {
@@ -17,10 +17,10 @@ public:
                 if(ch == ')' && st.top() != '(')
                     return false;
 
-                if(ch == ']' && st.top() != '[')
+                if(ch == '}' && st.top() != '{')
                     return false;
 
-                if(ch == '}' && st.top() != '{')
+                if(ch == ']' && st.top() != '[')
                     return false;
 
                 st.pop();
