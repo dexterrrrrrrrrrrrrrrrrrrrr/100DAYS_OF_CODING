@@ -48,8 +48,10 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
