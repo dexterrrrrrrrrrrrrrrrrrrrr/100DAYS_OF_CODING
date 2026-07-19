@@ -13,6 +13,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | ------- |
 | [0001-two-sum](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0704-binary-search) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
