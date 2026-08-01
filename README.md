@@ -20,6 +20,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0035-search-insert-position](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -143,6 +145,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
@@ -165,4 +168,12 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
