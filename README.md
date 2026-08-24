@@ -34,6 +34,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [1406-stone-game-iii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2029-stone-game-ix) |
@@ -132,6 +133,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [1406-stone-game-iii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2029-stone-game-ix) |
@@ -255,6 +257,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [1406-stone-game-iii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -265,6 +268,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [1406-stone-game-iii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -273,6 +277,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [1140-stone-game-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -280,6 +285,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [1140-stone-game-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -301,6 +307,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
