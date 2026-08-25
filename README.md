@@ -87,6 +87,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0205-isomorphic-strings](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -203,6 +204,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
@@ -253,6 +255,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | ------- |
 | [0053-maximum-subarray](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1140-stone-game-ii) |
