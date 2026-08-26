@@ -18,6 +18,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0088-merge-sorted-array) |
@@ -308,6 +309,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -341,4 +343,8 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0070-climbing-stairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
