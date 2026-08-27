@@ -81,6 +81,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0020-valid-parentheses) |
