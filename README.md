@@ -6,6 +6,13 @@ Welcome to my 100 Days of Coding Challenge! 🌟 This repository is where I docu
 <br>
 Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditionals, input/output), improving problem-solving skills with arrays (searching, frequency, subarrays, and finding min/max elements), and practicing sorting algorithms like Bubble Sort, Selection Sort, and Insertion Sort — soon moving on to Merge and Quick Sort 🚀. Each day is about building consistency, logic, and confidence, solving one problem at a time 💪.
 
+<h2 align="center">🧩 LeetCode</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
