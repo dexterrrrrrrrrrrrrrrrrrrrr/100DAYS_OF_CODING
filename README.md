@@ -119,6 +119,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0058-length-of-last-word](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0387-first-unique-character-in-a-string) |
@@ -275,6 +276,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0027-remove-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
