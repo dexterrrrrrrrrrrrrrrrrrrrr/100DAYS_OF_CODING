@@ -29,6 +29,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0053-maximum-subarray](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0287-find-the-duplicate-number) |
@@ -168,6 +169,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
