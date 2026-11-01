@@ -31,6 +31,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [0088-merge-sorted-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0414-third-maximum-number) |
@@ -85,6 +86,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | ------- |
 | [0001-two-sum](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0389-find-the-difference) |
@@ -280,6 +282,7 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | ------- |
 | [0015-3sum](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1096-brace-expansion-ii) |
@@ -356,9 +359,11 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0169-majority-element) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -528,4 +533,8 @@ Currently, I’m focusing on sharpening my C++ basics (loops, functions, conditi
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/100DAYS_OF_CODING/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
